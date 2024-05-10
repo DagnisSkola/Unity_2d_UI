@@ -1,7 +1,9 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Random = UnityEngine.Random;
 
 public class ShowTextScript : MonoBehaviour
 {
@@ -24,10 +26,13 @@ public class ShowTextScript : MonoBehaviour
     string text;
     public GameObject inputField;
     public GameObject displayField;
+    string[] words = { "Sveki ", "Jauku dienu ", "Labrīt ", "Prieks Tevi redzēt " };
+    int rd;
 
     public void getText()
     {
+        rd = Random.Range(0, words.Length);
         text = inputField.GetComponent<Text>().text;
-        displayField.GetComponent<Text>().text = "Sveiks " + text.ToLower() + "!";
+        displayField.GetComponent<Text>().text = words[rd] + text.ToLower() + "!";
     }
 }
