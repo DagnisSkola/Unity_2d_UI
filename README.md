@@ -7,8 +7,8 @@ Unity 2d projekts, kas demonstrē UI elementu pielietojumu.
 - [x] Pirmā C# skripta izveide un piesaiste ainai
 - [x] Image un Toggle elementu lietojums
 - [x] Panel un Toggle Group elementu lietojums
-- [ ] DropDow elementa lietojums
-- [ ] AudioSource un ScrollView elementu lietojums
+- [x] DropDown elementa lietojums
+- [x] AudioSource un ScrollView elementu lietojums
 - [ ] Jaunas ainas ieviešana
 - [ ] Rigidbody un Collider komponenšu lietojums
 - [ ] Sagatavošana Windows platformai
