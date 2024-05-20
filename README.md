@@ -10,8 +10,8 @@ Unity 2d projekts, kas demonstrē UI elementu pielietojumu.
 - [x] DropDown elementa lietojums
 - [x] AudioSource un ScrollView elementu lietojums
 - [x] DragAndDrop funkcionalitāte
-- [ ] Jaunas ainas ieviešana
-- [ ] Rigidbody un Collider komponenšu lietojums
-- [ ] Sagatavošana Windows platformai
+- [x] Jaunas ainas ieviešana
+- [x] Rigidbody un Collider komponenšu lietojums
+- [x] Sagatavošana Windows platformai
 
 ![MR.BEASST](https://static.wikia.nocookie.net/mrbean/images/c/c1/Teddy_and_Mr_Bean.png/revision/latest/scale-to-width-down/250?cb=20231102031035)
