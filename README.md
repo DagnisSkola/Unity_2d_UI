@@ -1,5 +1,5 @@
 # Unity_2d_UI
-Unity 2d projekts, kas demonstrē UI elementu pielietojumu.
+Unity 2d projekts, kas demonstrē UI elementu pielietojumu, ar tēla apģerbšanu.
 ### Veicamo darbu saraksts
 - [ ] Izstrādāt sākuma ainu no, kuras ir iespējams aizvērt projektu vai izvēlēties uzsākt tēla veidošanas spēli. Nodrošināta iespēja pārslēgties starp projektā iekļautajām ainām (2p)
 - [ ] Pielietojot teksta ievades laukus (2 gab.) iespējams ievadīt tēla vārdu un dzimšanas gadu (šajā laukā iespējams ievadīt tikai skaitļus), pogas nospiešana nodrošina ievadīto vērtību attēlošanu teksta laukā, aprēķinot vecumu (Piemēram: Supervaronis Oskars ir 19 gadus vecs!") (2p) 3. Pielietojot izkrītošā saraksta pogu, iespējams izvēlēties vismaz divus tēlus, kurus iespējams apģērbt (1p)
