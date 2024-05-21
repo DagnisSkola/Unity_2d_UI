@@ -1,4 +1,4 @@
-# Unity_2d_UI
+# Janeks_UnityUI
 Unity 2d projekts, kas demonstrē UI elementu pielietojumu, ar tēla apģerbšanu.
 ### Veicamo darbu saraksts
 - [ ] Izstrādāt sākuma ainu no, kuras ir iespējams aizvērt projektu vai izvēlēties uzsākt tēla veidošanas spēli. Nodrošināta iespēja pārslēgties starp projektā iekļautajām ainām (2p)
